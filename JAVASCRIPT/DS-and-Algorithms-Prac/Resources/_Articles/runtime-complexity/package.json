@@ -2,6 +2,6 @@
   "dependencies": {
     "performance-now": "^2.1.0",
     "chart.js": "2.9.4",
-    "randomstring": "^1.1.5"
+    "randomstring": "1.2.2"
   }
 }
